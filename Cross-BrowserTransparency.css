@@ -1,3 +1,4 @@
+
 .transparent {
     filter: alpha(opacity=50); /* internet explorer */
     -khtml-opacity: 0.5;      /* khtml, old safari */
