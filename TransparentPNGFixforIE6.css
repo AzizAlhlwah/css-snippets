@@ -6,7 +6,6 @@
     _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/folder/yourimage.png',sizingMethod='crop');
 }
  
- 
 /* 1px gif method */
 img, .png {
     position: relative;
