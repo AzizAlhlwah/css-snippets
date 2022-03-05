@@ -61,3 +61,8 @@ a[data-tooltip]:active:after {
 a[data-tooltip]:active:before {
     top: -42px;
 }
+
+
+/*
+    Media Q 
+*/
